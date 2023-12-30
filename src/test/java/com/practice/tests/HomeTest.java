@@ -4,10 +4,11 @@ import org.testng.annotations.Test;
 
 import com.practice.utils.BaseUtils;
 
+
 public class HomeTest extends BaseUtils {
 
 	@Test
 	public void test() {
-		System.out.println("Start");
+		System.out.println("Launch the Browser");
 	}
 }
